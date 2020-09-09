@@ -1,3 +1,6 @@
+#Solutions to How to Think Like a Computer Scientist with Python 3
+#by Georg Z
+
 #Import Packages
 import math
 import turtle
